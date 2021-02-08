@@ -1,5 +1,8 @@
 # Ejercicio de Profesores.txt
-_Crea un menú de opciones:
+## Versionado 📌
+
+[v2]
+Crea un menú de opciones:
 1. Listado de datos de profesores (Realizado en le v1.0)
 2. Genera un archivo de txt con la información de los
 profesores que impartan clase en alguno de sus
@@ -13,5 +16,5 @@ profesHorario.txt
 disciplina pedida al usuario por teclado, el archivo se llamará con el nombre de la
 disciplina.txt.
 5. Realiza el punto 3 del ejercicio pero esta vez poniendo como carácter separador de
-cada campo el siguiente: ||”|:_
+cada campo el siguiente: ||”|:
 

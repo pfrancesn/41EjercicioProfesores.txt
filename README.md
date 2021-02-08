@@ -1,7 +1,7 @@
 # Ejercicio de Profesores.txt
 ## Versionado 📌
 
-[v2]
+[v2.0]
 Crea un menú de opciones:
 1. Listado de datos de profesores (Realizado en le v1.0)
 2. Genera un archivo de txt con la información de los
